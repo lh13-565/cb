@@ -22,10 +22,10 @@ source-code: https://github.com/lh13-565/cb
 # title of site appears in banner
 title: 565 DL Test
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: test
+tagline: Amateur Landscape and Wildlife Photography Collection Digital Library
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "A digital library for landscape and wildlife photography."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: LH
 
