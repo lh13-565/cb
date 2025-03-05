@@ -20,9 +20,9 @@ source-code: https://github.com/lh13-565/cb
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: 565 DL Test
+title: "565 DL Test"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Amateur Landscape and Wildlife Photography Collection Digital Library
+tagline: "Amateur Landscape and Wildlife Photography Collection Digital Library"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "A digital library for landscape and wildlife photography."
